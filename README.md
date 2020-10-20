@@ -1,4 +1,7 @@
-### Hi there, I am a developer 👋
+### Hi there 👋
+![](https://media.giphy.com/media/e6tWc6BpjyluE/giphy.gif)
+
+Loading... some info about me go here, check back again in some time 
 
 <!--
 **slkaba/slkaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
